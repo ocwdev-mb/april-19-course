@@ -6,3 +6,9 @@ title: A page with image 5rrrr
 uid: 975cb510-12cc-4c0a-9abf-02bcbd47d1c1
 ---
 {{< resource uuid="e70e5eb2-6ad9-48b2-abff-bc53854d0d47" >}}
+
+ 
+
+ 
+
+{{% resource_link "9871453f-957e-4212-a561-80a99b6e8539" "image3.png" %}}
