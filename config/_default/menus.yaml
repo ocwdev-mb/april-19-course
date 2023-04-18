@@ -1,0 +1,5 @@
+leftnav:
+- identifier: 975cb510-12cc-4c0a-9abf-02bcbd47d1c1
+  name: page one link
+  url: /pages/a-page-with-image-5
+  weight: 10
