@@ -1,0 +1,29 @@
+{
+  "term": "Summer",
+  "year": "2027",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "april-19-course"
+  },
+  "course_image": {
+    "content": "",
+    "website": "april-19-course"
+  },
+  "course_title": "April 19 Course",
+  "course_description": "course for 4/19/2023",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4.19.2023",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "april-19-course"
+  },
+  "learning_resource_types": [],
+  "site_uid": "d40da06f-349d-4e2a-88f2-c8962ff7480a",
+  "site_short_id": "april-19-course"
+}
